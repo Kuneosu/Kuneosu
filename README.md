@@ -6,6 +6,8 @@
 
 Flutter에 매력을 느껴 **Flutter를 이용한 어플리케이션 개발**도 함께 공부하고 있습니다 !
 
+최근엔 안드로이드 앱을 제작하는 강의를 듣고 있어 **Java를 이용한 안드로이드 어플리케이션 개발**도 공부중입니다.
+
 프론트엔드 개발자를 목표로 하고 있어 **알고리즘 문제 풀이는 Node.js** 를 이용하여 해결하려고 하고 있습니다.
 
 <br>
@@ -18,15 +20,19 @@ I am mainly studying **web page development** using **HTML, CSS, JS and React**,
 
 I am also studying **Application development using Flutter** because I am attracted to Flutter!
 
+Recently, I've been taking a lecture on creating an Android app, **I'm also studying developing an Android app using Java**.
+
 Aiming at front-end developers, **Algor problem solving is trying to solve using Node.js**.
 
 # 📚 Skills
 
 ### Studying
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">  <img src="https://img.shields.io/badge/Java-F37C20?style=for-the-badge&logo=jameson&logoColor=white">
+
 
 ### Tools
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
+
 
 
 <!--
