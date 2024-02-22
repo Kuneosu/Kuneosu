@@ -1,38 +1,26 @@
-# Portfolio
--> https://kimkwonsu.notion.site/2bca6f20ec054d48802fa142de7b918f?pvs=74
+### Portfolio
+### 👉🏻 https://kimkwonsu.notion.site/2bca6f20ec054d48802fa142de7b918f?pvs=74
 
-# About ME
+# 🙋🏻‍♂️ About ME
 
 안녕하세요 😃
 
 저는 **웹/앱 프론트엔드 개발자**를 목표로 공부중인 대학생입니다 !
 
-저는 주로 **HTML,CSS,JS와 React** 를 사용하여 **웹 페이지 개발**을 공부하고 있으며,
+저는 현재 대학교에서 시행하는 IPP 일학습병행 사업에 참여하여
 
-Flutter에 매력을 느껴 **Flutter를 이용한 어플리케이션 개발**도 함께 공부하고 있습니다 !
+Android App 개발자로 실제 기업에서 실습하며 많은 것을 배우고 있습니다.
 
-최근엔 안드로이드 앱을 제작하는 강의를 듣고 있어 **Java를 이용한 안드로이드 어플리케이션 개발**도 공부중입니다.
+개발 언어는 주로 Java, Kotlin, XML 을 사용하여 개발을 진행중입니다.
 
-프론트엔드 개발자를 목표로 하고 있어 **알고리즘 문제 풀이는 Node.js** 를 이용하여 해결하려고 하고 있습니다.
+현재 가장 집중하고 있는 언어는 Java 이며, 향후 Kotlin 에 대한 이해도 또한 높여
 
-<br>
-
-Hi there :)
-
-I'm a college student studying **web/app frontend developer**!
-
-I am mainly studying **web page development** using **HTML, CSS, JS and React**,
-
-I am also studying **Application development using Flutter** because I am attracted to Flutter!
-
-Recently, I've been taking a lecture on creating an Android app, **I'm also studying developing an Android app using Java**.
-
-Aiming at front-end developers, **Algor problem solving is trying to solve using Node.js**.
+안드로이드 앱 개발이라는 분야에 이해가 깊은 개발자로 성장하려 하고 있습니다.
 
 # 📚 Skills
 
 ### Studying
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">  <img src="https://img.shields.io/badge/Java-F37C20?style=for-the-badge&logo=jameson&logoColor=white">
+<img src="https://img.shields.io/badge/Java-F37C20?style=for-the-badge&logo=jameson&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">  
 
 
 ### Tools
