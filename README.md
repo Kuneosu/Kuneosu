@@ -1,3 +1,6 @@
+# Portfolio
+-> https://kimkwonsu.notion.site/2bca6f20ec054d48802fa142de7b918f?pvs=74
+
 안녕하세요 😃
 
 저는 **웹/앱 프론트엔드 개발자**를 목표로 공부중인 대학생입니다 !
