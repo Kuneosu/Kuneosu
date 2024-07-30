@@ -37,4 +37,4 @@
 - [포트폴리오](https://kimkwonsu.notion.site/2bca6f20ec054d48802fa142de7b918f?pvs=74)
 
 <br><br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kuneosu)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kuneosu&mode=weekly)](https://git.io/streak-stats)
