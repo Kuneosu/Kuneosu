@@ -44,7 +44,6 @@ I'm **Kwonsu Kim**, known as **Kuneosu** in the development community. I am a Co
 ## 📈 Projects and Contributions
 
 - [Mintoners](https://github.com/Kuneosu/Mintoners) - A sports bracket application developed using Kotlin+XML.
-- [WebtoonCompose](https://github.com/Kuneosu/WebtoonCompose) - A Kakao Webtoon clone coding project using Kotlin+Jetpack Compose.
 
 ## 📫 Contact
 
