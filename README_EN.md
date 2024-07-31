@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm **Kwonsoo Kim**, known as **Kuneosu** in the development community. I am a Computer Science student and an Android app developer.
+I'm **Kwonsu Kim**, known as **Kuneosu** in the development community. I am a Computer Science student and an Android app developer.
 
 ### Interests
 - **Goal**: To develop functional and intuitive applications that maximize user experience, making people's lives more convenient and improving the world.
