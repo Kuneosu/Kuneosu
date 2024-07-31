@@ -27,8 +27,7 @@
 ## 📈 프로젝트 및 기여
 
 - [Mintoners](https://github.com/Kuneosu/Mintoners) - Kotlin+XML 기반으로 제작한 스포츠 대진표 작성 어플리케이션.
-- [WebtoonCompose](https://github.com/Kuneosu/WebtoonCompose) - Kotlin+Jetpack Compose 기반으로 클론 코딩을 진행한 카카오 웹툰 클론 코딩 프로젝트.
-
+- 
 ## 📫 연락처
 
 - **이메일**: [kks92155784@gmail.com](mailto:kks92155784@gmail.com)
