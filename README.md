@@ -38,5 +38,6 @@
 
 <br><br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kuneosu&mode=weekly)](https://git.io/streak-stats)
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+<br><br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
