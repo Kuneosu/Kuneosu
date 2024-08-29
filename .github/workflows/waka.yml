@@ -12,8 +12,8 @@
       steps:
         - uses: anmol098/waka-readme-stats@master
           with:
-            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-            GH_TOKEN: ${{ secrets.GH_TOKEN }}
+            WAKATIME_API_KEY: ${{ secrets.WAKA_TIME_API }}
+            GH_TOKEN: ${{ secrets.WAKA_TIME_TOKEN }}
             LOCALE: "ko"
             SHOW_LINES_OF_CODE: "True"
             SHOW_PROFILE_VIEWS: "False"
