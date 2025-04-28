@@ -1,7 +1,7 @@
 # Hello! 👋  
 👉🏻 [Korean Ver.](README.md) <br><br>
 
-I'm **Kwonsoo Kim**, also known as **Kuneosu** in the developer community.  
+I'm **Kwonsu Kim**, also known as **Kuneosu** in the developer community.  
 Currently, I am working as an **Android Developer** at **PINEONE Communications Co., Ltd.**
 
 ### Interests
