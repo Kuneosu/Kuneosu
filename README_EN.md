@@ -2,7 +2,7 @@
 👉🏻 [Korean Ver.](README.md) <br><br>
 
 I'm **Kwonsoo Kim**, also known as **Kuneosu** in the developer community.  
-Currently, I am working as an **Android Developer** at **FineOne Communications Co., Ltd.**
+Currently, I am working as an **Android Developer** at **PINEONE Communications Co., Ltd.**
 
 ### Interests
 - **Goal**: Develop functional and intuitive applications that maximize user experience, making people's lives more convenient and improving the world.
