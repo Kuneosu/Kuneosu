@@ -33,7 +33,7 @@
 ## 📈 프로젝트 및 기여
 
 - [Mintoners](https://github.com/Kuneosu/Mintoners) - Kotlin+XML 기반으로 제작한 스포츠 대진표 작성 어플리케이션. (Android 플레이스토어 출시)
-- [대진 도우미](https://github.com/Kuneosu/bracket_helper) - Mintoners 프로젝트를 Dart+Flutter(Clean Architecture/MVVM)으로 리팩토링한 프로젝트. (Android 플레이스토어, iOS 앱스토어 출시 예정)
+- [대진 도우미](https://github.com/Kuneosu/bracket_helper) - Mintoners 프로젝트를 Dart+Flutter(Clean Architecture/MVVM)으로 리팩토링한 프로젝트. (Android 플레이스토어, iOS 앱스토어 출시)
   
 ## 📫 연락처
 
