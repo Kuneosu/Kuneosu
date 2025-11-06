@@ -31,7 +31,7 @@ Currently, I am working as a **Web Developer** at **PINEONE Communications Co., 
 ## 📈 Projects & Contributions
 
 - [Mintoners](https://github.com/Kuneosu/Mintoners) - A sports tournament bracket application built with Kotlin+XML. (Released on Android Play Store)
-- [Bracket Helper](https://github.com/Kuneosu/bracket_helper) - A refactored version of the Mintoners project using Dart+Flutter (Clean Architecture/MVVM). (Planned release on Android Play Store and iOS App Store)
+- [Bracket Helper](https://github.com/Kuneosu/bracket_helper) - A refactored version of the Mintoners project using Dart+Flutter (Clean Architecture/MVVM). (Released on Android Play Store and iOS App Store)
 
 ## 📫 Contact
 
