@@ -1,51 +1,47 @@
-# Hello! 👋  
-👉🏻 [Korean Ver.](README.md) <br><br>
+# Kuneosu
 
-I'm **Kwonsu Kim**, also known as **Kuneosu** in the developer community.
-Currently, I am working as a **Web Developer** at **PINEONE Communications Co., Ltd.**
+👉🏻 [Korean Ver.](README.md)
 
-### Interests
-- **Goal**: Develop functional and intuitive applications that maximize user experience, making people's lives more convenient and improving the world.
-- **AI Tools**: Actively utilizing various AI tools such as Claude Code, Gemini, and Perplexity to deliver higher quality solutions in less time.
-- **Development Methodology**: Interested in systematic development based on TDD (Test-Driven Development).
+**Developer Aspiring to be an AI Native Engineer**
 
-## 🔧 Tech Stack
+Currently working as a Web Developer at PINEONE Communications Co., Ltd.
 
-### Main Skills
-- **Programming Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
-- **Frameworks and Libraries**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=Vite&logoColor=white)
-- **Development Environment**: ![Claude Code](https://img.shields.io/badge/-Claude%20Code-8A63D2?style=flat)
+Since mid-2024, I have been developing with various AI tools, focusing on turning ideas into reality quickly.
+Languages and frameworks are just tools—with AI proficiency, technical constraints are no longer limitations.
 
-### Additional Experience
-- **Programming Languages**: ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=Dart&logoColor=white), ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white), ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white), ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-- **Frameworks and Tools**: ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter&logoColor=white), ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat&logo=Jetpack%20Compose&logoColor=white)
-- **Collaboration Tools**: ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white), ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=Confluence&logoColor=white), ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=Bitbucket&logoColor=white), ![Teams](https://img.shields.io/badge/-Teams-6264A7?style=flat&logo=Microsoft%20Teams&logoColor=white)
-- **AI Tools**: ![Claude](https://img.shields.io/badge/-Claude-8A63D2?style=flat), ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat), ![Perplexity](https://img.shields.io/badge/-Perplexity-20808D?style=flat)
-- **Other Tools**: ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=white), ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white), ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white), ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)
+---
 
-## 🌱 Currently Learning
-- How to **systematically utilize AI tools** more effectively.
-- **TDD (Test-Driven Development)** based development methodology.
-- **Modern web application development** using the React framework.
+## Projects
 
-## 📈 Projects & Contributions
+| Project | Description | Tech |
+|---------|-------------|------|
+| [dep-clean](https://github.com/Kuneosu/dep-clean) | CLI tool to find and clean unused npm dependencies | TypeScript |
+| [Claude-Multi-Agent-System](https://github.com/Kuneosu/Claude-Multi-Agent-System) | Multi-agent system based on Claude API | JavaScript |
+| [rubiks-cube](https://github.com/Kuneosu/rubiks-cube) | Rubik's Cube built with Three.js | TypeScript |
+| [bracket_helper](https://github.com/Kuneosu/bracket_helper) | Sports bracket app (Android/iOS) | Flutter |
 
-- [Mintoners](https://github.com/Kuneosu/Mintoners) - A sports tournament bracket application built with Kotlin+XML. (Released on Android Play Store)
-- [Bracket Helper](https://github.com/Kuneosu/bracket_helper) - A refactored version of the Mintoners project using Dart+Flutter (Clean Architecture/MVVM). (Released on Android Play Store and iOS App Store)
+---
 
-## 📫 Contact
+## Tech
 
-- **Email**: [kks92155784@gmail.com](mailto:kks92155784@gmail.com)
+Main technologies:
 
-## 🌐 Other Links
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white)
 
-- [Portfolio](https://kimkwonsu.notion.site/2bca6f20ec054d48802fa142de7b918f?pvs=74)
+AI tools:
 
-<br><br>
+![Claude Code](https://img.shields.io/badge/Claude%20Code-8A63D2?style=flat)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat)
+![Perplexity](https://img.shields.io/badge/Perplexity-20808D?style=flat)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kuneosu&mode=weekly)](https://git.io/streak-stats)
+> I believe that with solid fundamentals, you can work with any technology alongside AI. Beyond the tools above, I actively explore and utilize the latest AI tools.
 
-<br><br>
+---
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+## Contact
+
+- Email: [kks92155784@gmail.com](mailto:kks92155784@gmail.com)
+- Portfolio: [k-library.vercel.app](https://k-library.vercel.app/)
