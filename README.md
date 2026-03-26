@@ -19,6 +19,7 @@
 | [Claude-Multi-Agent-System](https://github.com/Kuneosu/Claude-Multi-Agent-System) | Claude API 기반 멀티 에이전트 시스템 | JavaScript |
 | [rubiks-cube](https://github.com/Kuneosu/rubiks-cube) | Three.js로 구현한 루빅스 큐브 | TypeScript |
 | [bracket_helper](https://github.com/Kuneosu/bracket_helper) | 스포츠 대진표 앱 (Android/iOS) | Flutter |
+| [make-slide](https://github.com/Kuneosu/make-slide) | AI 기반 독립실행형 HTML 슬라이드 덱 생성 스킬 | HTML |
 
 ---
 

@@ -19,6 +19,7 @@ Languages and frameworks are just tools—with AI proficiency, technical constra
 | [Claude-Multi-Agent-System](https://github.com/Kuneosu/Claude-Multi-Agent-System) | Multi-agent system based on Claude API | JavaScript |
 | [rubiks-cube](https://github.com/Kuneosu/rubiks-cube) | Rubik's Cube built with Three.js | TypeScript |
 | [bracket_helper](https://github.com/Kuneosu/bracket_helper) | Sports bracket app (Android/iOS) | Flutter |
+| [make-slide](https://github.com/Kuneosu/make-slide) | AI-powered standalone HTML slide deck generator skill | HTML |
 
 ---
 
