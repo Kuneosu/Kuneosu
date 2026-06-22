@@ -35,10 +35,24 @@ Main technologies:
 AI tools:
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-8A63D2?style=flat)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=OpenAI&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat)
 ![Perplexity](https://img.shields.io/badge/Perplexity-20808D?style=flat)
 
 > I believe that with solid fundamentals, you can work with any technology alongside AI. Beyond the tools above, I actively explore and utilize the latest AI tools.
+
+---
+
+## AI Subscription History
+
+| Service | Subscription Period |
+|---------|---------------------|
+| Claude Max | July 2025 ~ May 2026 |
+| ChatGPT Pro | June 2026 ~ |
+| Google AI Pro | September 2025 ~ |
+| Perplexity Pro | September 2025 ~ |
 
 ---
 

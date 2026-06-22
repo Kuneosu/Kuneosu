@@ -35,10 +35,24 @@
 AI 도구:
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-8A63D2?style=flat)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat&logo=OpenAI&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat)
 ![Perplexity](https://img.shields.io/badge/Perplexity-20808D?style=flat)
 
 > 기본기를 갖추면 AI와 함께 어떤 기술이든 다룰 수 있다고 믿습니다. 위 도구 외에도 최신 AI 도구들을 적극적으로 탐색하고 활용합니다.
+
+---
+
+## 구독 중인 AI 내역
+
+| 서비스 | 구독 기간 |
+|--------|-----------|
+| Claude Max | 2025년 7월 ~ 2026년 5월 |
+| ChatGPT Pro | 2026년 6월 ~ |
+| Google AI Pro | 2025년 9월 ~ |
+| Perplexity Pro | 2025년 9월 ~ |
 
 ---
 
