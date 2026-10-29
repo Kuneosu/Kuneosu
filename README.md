@@ -6,8 +6,7 @@
 
 현재 (주)파인원커뮤니케이션즈에서 웹 개발자로 근무하고 있습니다.
 
-2024년 중순부터 다양한 AI 도구를 활용하여 개발을 진행해오고 있으며, 아이디어를 빠르게 현실로 만드는 데 집중합니다.
-언어나 프레임워크는 도구일 뿐, AI 활용 능력이 있다면 기술적 제약은 더 이상 한계가 아니라고 생각합니다.
+2024년 중순부터 다양한 AI 도구를 활용해 개발하고 있으며, AI와 함께 아이디어를 빠르게 구현하고 검증하는 과정에 집중합니다.
 
 ---
 
@@ -20,6 +19,7 @@
 | [rubiks-cube](https://github.com/Kuneosu/rubiks-cube) | Three.js로 구현한 루빅스 큐브 | TypeScript |
 | [bracket_helper](https://github.com/Kuneosu/bracket_helper) | 스포츠 대진표 앱 (Android/iOS) | Flutter |
 | [make-slide](https://github.com/Kuneosu/make-slide) | AI 기반 독립실행형 HTML 슬라이드 덱 생성 스킬 | HTML |
+| [standby-aos](https://github.com/Kuneosu/standby-aos) | 시계, 사진, 알림 등을 꾸밀 수 있는 Android 스탠바이 앱 | Kotlin, Jetpack Compose |
 
 ---
 
@@ -30,6 +30,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white)
 
 AI 도구:
@@ -45,14 +46,14 @@ AI 도구:
 
 ---
 
-## 구독 중인 AI 내역
+## AI 구독 이력
 
 | 서비스 | 구독 기간 |
 |--------|-----------|
 | Claude Max | 2025년 7월 ~ 2026년 5월 |
 | ChatGPT Pro | 2026년 6월 ~ |
-| Google AI Pro | 2025년 9월 ~ |
-| Perplexity Pro | 2025년 9월 ~ |
+| Google AI Pro | 2025년 9월 ~ 2026년 9월 |
+| Perplexity Pro | 2025년 9월 ~ 2026년 9월 |
 
 ---
 

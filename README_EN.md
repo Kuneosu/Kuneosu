@@ -6,8 +6,7 @@
 
 Currently working as a Web Developer at PINEONE Communications Co., Ltd.
 
-Since mid-2024, I have been developing with various AI tools, focusing on turning ideas into reality quickly.
-Languages and frameworks are just tools—with AI proficiency, technical constraints are no longer limitations.
+Since mid-2024, I have been developing with various AI tools, focusing on quickly building and validating ideas together with AI.
 
 ---
 
@@ -20,6 +19,7 @@ Languages and frameworks are just tools—with AI proficiency, technical constra
 | [rubiks-cube](https://github.com/Kuneosu/rubiks-cube) | Rubik's Cube built with Three.js | TypeScript |
 | [bracket_helper](https://github.com/Kuneosu/bracket_helper) | Sports bracket app (Android/iOS) | Flutter |
 | [make-slide](https://github.com/Kuneosu/make-slide) | AI-powered standalone HTML slide deck generator skill | HTML |
+| [standby-aos](https://github.com/Kuneosu/standby-aos) | Customizable Android standby app with a clock, photos, and notifications | Kotlin, Jetpack Compose |
 
 ---
 
@@ -30,6 +30,7 @@ Main technologies:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white)
 
 AI tools:
@@ -51,8 +52,8 @@ AI tools:
 |---------|---------------------|
 | Claude Max | July 2025 ~ May 2026 |
 | ChatGPT Pro | June 2026 ~ |
-| Google AI Pro | September 2025 ~ |
-| Perplexity Pro | September 2025 ~ |
+| Google AI Pro | September 2025 ~ September 2026 |
+| Perplexity Pro | September 2025 ~ September 2026 |
 
 ---
 
